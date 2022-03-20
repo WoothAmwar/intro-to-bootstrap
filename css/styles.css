@@ -4,6 +4,11 @@ address {
     color: #0f0f0f;
 }
 
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
 
 .row-header {
     margin: 0px auto;
@@ -28,4 +33,12 @@ address {
     margin: 0px auto;
     background: #9575CD;
     color: floralwhite;
+}
+
+.navbar-dark {
+    background: #512DA8;
+}
+/* Custom CSS not in course */
+.navbar-brand {
+    padding-right: 15px;
 }

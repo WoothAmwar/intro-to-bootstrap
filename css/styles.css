@@ -42,3 +42,7 @@ body {
 .navbar-brand {
     padding-right: 15px;
 }
+
+span.fa {
+    padding: 0px 5px;
+}
